@@ -1,6 +1,6 @@
-## Lok'tar Ogar! 👋
+# Lok'tar Ogar! 👋
 
-## About me
+### About me
 I am...  
 
 🔭 looking for a job or internship in order to gain experience in the IT Industry!
