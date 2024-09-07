@@ -1,14 +1,14 @@
 # Lok'tar Ogar! 👋
 
 ### About me
-I am...  
+ 
 
 🔭 looking for a job or internship in order to gain experience in the IT Industry!
 
 👨‍🎓 currently studying Games Programming at the SAE Institute in Bochum, Germany, aiming straight for my Diplomas degree!  
-🖥️ working with C# and Unity Game Engine for over a year.  
-📖 learning the basics of C to further improve my understanding of programming fundamentals.  
-📖 currently making my first experience with C++ and Unreal Engine during my third semester of my diploma education.  
+🖥️ 1.5 years of experience in C# and Unity Game Engine.  
+📖 basic knowledge and skills on C and C++.  
+📖 currently making my first experiences with Unreal Engine.  
 
 
 
