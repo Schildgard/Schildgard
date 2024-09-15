@@ -3,12 +3,11 @@
 ### About me
  
 
-🔭 looking for a job or internship in order to gain experience in the IT Industry!
 
 👨‍🎓 currently studying Games Programming at the SAE Institute in Bochum, Germany, aiming straight for my Diplomas degree!  
 🖥️ 1.5 years of experience in C# and Unity Game Engine.  
 📖 basic knowledge and skills on C and C++.  
-📖 currently making my first experiences with Unreal Engine.  
+📖 currently educating myself with Unreal Engine.  
 
 
 
