@@ -5,9 +5,9 @@
 
 
 👨‍🎓 currently studying Games Programming at the SAE Institute in Bochum, Germany, aiming straight for my Diplomas degree!  
-🖥️ 1.5 years of experience in C# and Unity Game Engine.  
-📖 basic knowledge and skills on C and C++.  
-📖 currently educating myself with Unreal Engine.  
+🖥️ profitient in C#, C++ and C.    
+📖 currently educating myself with Unreal Engine and Graphics Programming.
+
 
 
 
