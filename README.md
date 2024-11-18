@@ -5,8 +5,7 @@
 
 
 👨‍🎓 currently studying Games Programming at the SAE Institute in Bochum, Germany, aiming straight for my Diplomas degree!  
-🖥️ profitient in C#, C++ and C.    
-📖 currently educating myself with Unreal Engine and Graphics Programming.
+🖥️ proficient in C#, C++ and C.    
 
 
 
