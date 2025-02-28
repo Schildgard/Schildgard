@@ -4,9 +4,16 @@
  
 
 
-👨‍🎓 currently studying Games Programming at the SAE Institute in Bochum, Germany, aiming straight for my Diplomas degree!  
-🖥️ proficient in C#, C++ and C.    
+Game Programmer based in Northrine Westfalia, Germany.
+Engines: Unreal Engine 5, Unity
+Programming Languages: C++, C#, C (basics)
+Preferences: Gameplay Programming, Backend Elements
+Favorite Genres: Action RPGs & Advenutes, Metroidvania, Fighting Games
 
+- 👨‍🎓 Diplomas Degree in Game Programming (SAE Institute)  
+- 🔭 I’m currently working on an Action Adventure Game inspired by the Dark Fantasy Settings of Vermis and Dark Souls
+- 🔭 I’m currently also looking for job opportunities as a programmer 
+- 📫 How to reach me: Best to hit me up via E-Mail! Schildgard@gmail.com
 
 
 
