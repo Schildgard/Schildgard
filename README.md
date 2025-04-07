@@ -4,15 +4,13 @@
  
 
 
-Game Programmer based in Northrine Westfalia, Germany.  
-Engines: Unreal Engine 5, Unity  
+Indie Game Dev based in Northrine Westfalia, Germany.  
+Engine: Unreal Engine 5, Unity  
 Programming Languages: C++, C#, C (basics)  
 Preferences: Gameplay Programming, Backend  
-Favorite Genres: Action RPGs & Adventures, Metroidvanias, Fighting Games  
   
-- 👨‍🎓 Diplomas Degree in Game Programming (SAE Institute)  
-- 🔭 I’m currently working on an Action Adventure Game inspired by the Dark Fantasy Settings of Vermis and Dark Souls
-- 🔭 I’m currently also looking for job opportunities as a programmer 
+- 👨‍🎓 Eductation: Diploma Degree in Game Programming (SAE Institute)  
+- 🔭 currently working on 'Shadow Keep'- Demo. A Soulslike Action RPG for Steam. 
 - 📫 How to reach me: Best to hit me up via E-Mail! Schildgard@gmail.com
 
 
