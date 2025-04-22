@@ -11,7 +11,7 @@ Preferences: Gameplay Programming, Backend
   
 - 👨‍🎓 Eductation: Diploma Degree in Game Programming (SAE Institute)  
 - 🔭 currently working on 'Shadow Keep'. A Soulslike Action RPG for Steam and my first Game aimed to be shipped.
-- 📫 How to reach me: Best to hit me up via E-Mail! Schildgard@gmail.com
+- 📫 How to reach me: best to hit me up via E-Mail! Schildgard@gmail.com
 
 
 
