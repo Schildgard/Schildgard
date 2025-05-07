@@ -5,12 +5,12 @@
 
 
 Indie Game Dev based in Northrine Westfalia, Germany.  
-Engine: Unreal Engine 5, Unity  
+Game Engines / Tools: Unreal Engine 5, Unity, Visual Studio, Blender (basics)
 Programming Languages: C++, C#, C (basics)  
 Preferences: Gameplay Programming, Backend  
   
-- 👨‍🎓 Eductation: Diploma Degree in Game Programming (SAE Institute)  
-- 🔭 currently working on 'Shadow Keep'. A Soulslike Action RPG for Steam and my first Game aimed to be shipped.
+- 👨‍🎓 Eductation: Diploma Degree in Game Programming at SAE Institute (1.7)  
+- 🔭 currently working on 'Shadow Keep'. A Soulslike Action RPG on Unreal Engine 5 and my first Game aimed to be shipped on Steam.
 - 📫 How to reach me: best to hit me up via E-Mail! Schildgard@gmail.com
 
 
