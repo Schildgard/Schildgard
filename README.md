@@ -36,7 +36,7 @@ I'm especially drawn to **atmospheric, dark fantasy games and soulslikes**, and 
 
 ### 🌱 How I got here
 
-Self-taught beginnings in Unity/C# → games-programming education at SAE → my first complete soulslike in Unreal → a ground-up *cleaner* rebuild of it → professional team work in UE5/C++ (dialogue systems & State-Tree NPC behaviour on a shipped project) → co-founding my own two-person indie studio.
+Self-taught beginnings in Unity/C# → games-programming education at SAE → my first complete soulslike in Unreal → a ground-up *cleaner* rebuild of it → professional team work in UE5/C++ (dialogue systems & State-Tree NPC behaviour on a professional and international project, to be shipped) → co-founding my own two-person indie studio.
 
 The thread through all of it: each project is a conscious answer to the weaknesses of the last one.
 
