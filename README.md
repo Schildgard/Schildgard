@@ -1,32 +1,51 @@
-# Hey there! 👋
+# Hi, I'm Leonard 👋
 
-### About me
- 
+**Gameplay & systems programmer — Unreal Engine 5 / C++.**
+
+I build games from the systems up: combat, AI, save/persistence, and the architecture that quietly holds it all together. I care most about the unglamorous part — clean interfaces, decoupled systems and code that's still readable six months later — because that's what makes the *fun* part possible.
+
+I'm especially drawn to **atmospheric, dark fantasy games and soulslikes**, and I'm currently co-founding a small indie studio to build one.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+### 🎮 What I do
+
+- **Gameplay & systems** — action combat, animation-driven mechanics, lock-on/targeting, RPG/item systems
+- **Behaviour AI** — across three paradigms: hand-built FSMs → Behavior Trees → State Trees
+- **Architecture** — interfaces & SOLID, subsystems, save/load lifecycles, decoupled Pub/Sub event systems
+- **UI** — UE MVVM & CommonUI
+- A bit of **game design & creative direction** on my own projects
+
+---
+
+### 📂 Featured projects
+
+| Project | What it is | My role |
+|---|---|---|
+| [**Project Mirror**](https://github.com/Schildgard/ProjectMirror) | Soulslike-horror in UE5 — *"Silent Hill in the clothes of Demon's Souls."* Decoupled Pub/Sub event subsystem, CommonUI + MVVM, built as a reusable framework. | Co-founder & sole programmer |
+| [**EternalGrace — Prototype**](https://github.com/Schildgard/Shadow-Keep) | The deliberate clean rebuild: data payloads, interface segregation, a real save subsystem, Behavior-Tree AI. | Solo |
+| [**Eternal Grace Arena**](https://github.com/Schildgard/Eternal-Grace) | A complete solo soulslike — my first Unreal project. | Solo |
+| [**Bonfire**](https://github.com/Schildgard/Bonfire) | Where it all started: my first 3D codebase, in Unity/C#. | Solo |
+
+---
+
+### 🌱 How I got here
+
+Self-taught beginnings in Unity/C# → games-programming education at SAE → my first complete soulslike in Unreal → a ground-up *cleaner* rebuild of it → professional team work in UE5/C++ (dialogue systems & State-Tree NPC behaviour on a shipped project) → co-founding my own two-person indie studio.
+
+The thread through all of it: each project is a conscious answer to the weaknesses of the last one.
+
+---
 
 
-Indie Game Dev based in Northrine Westfalia, Germany.  
-Game Engines / Tools: Unreal Engine 5, Unity, Visual Studio, Blender (basics)
-Programming Languages: C++, C#, C (basics)  
-Preferences: Gameplay Programming, Backend  
-  
-- 👨‍🎓 Eductation: Diploma Degree in Game Programming at SAE Institute (1.7)  
-- 🔭 currently working on 'Shadow Keep'. A Soulslike Action RPG on Unreal Engine 5 and my first Game aimed to be shipped on Steam.
-- 📫 How to reach me: best to hit me up via E-Mail! Schildgard@gmail.com
 
+### 📫 Get in touch
 
+I'm open to **gameplay / software engineering** roles — and always happy to talk shop about game design or systems architecture.
 
-
-<!--
-**Schildgard/Schildgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **leonardkemenani@gmail.com**
