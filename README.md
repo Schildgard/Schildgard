@@ -1,4 +1,4 @@
-# Hi, I'm Leonard 👋
+# Hi, I'm Leonard. Based in Germany 👋
 
 **Gameplay & systems programmer — Unreal Engine 5 / C++.**
 
