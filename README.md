@@ -28,7 +28,7 @@ I'm especially drawn to **atmospheric, dark fantasy games and soulslikes**, and 
 | Project | What it is | My role |
 |---|---|---|
 | [**Project Mirror**](https://github.com/Schildgard/ProjectMirror) | Soulslike-horror in UE5 — *"Silent Hill in the clothes of Demon's Souls."* Decoupled Pub/Sub event subsystem, CommonUI + MVVM, built as a reusable framework. | Co-founder & sole programmer |
-| [**EternalGrace — Prototype**](https://github.com/Schildgard/Shadow-Keep) | The deliberate clean rebuild: data payloads, interface segregation, a real save subsystem, Behavior-Tree AI. | Solo |
+| [**EternalGrace Prototype**](https://github.com/Schildgard/Shadow-Keep) | The deliberate clean rebuild: data payloads, interface segregation, a real save subsystem, Behavior-Tree AI. | Solo |
 | [**Eternal Grace Arena**](https://github.com/Schildgard/Eternal-Grace) | A complete solo soulslike — my first Unreal project. | Solo |
 | [**Bonfire**](https://github.com/Schildgard/Bonfire) | Where it all started: my first 3D codebase, in Unity/C#. | Solo |
 
