@@ -14,7 +14,7 @@ I'm especially drawn to **atmospheric, dark fantasy games and soulslikes**, and 
 ---
 
 ### 🎮 What I do
-
+- **Videos of my early and current projects can be found here:  [https://youtu.be/dwP9lMNThy0](https://youtube.com/playlist?list=PLJ8WR8Pj815c&si=GslD-aQ84pYs5Nyx)**
 - **Gameplay & systems** — action combat, animation-driven mechanics, lock-on/targeting, RPG/item systems
 - **Behaviour AI** — across three paradigms: hand-built FSMs → Behavior Trees → State Trees
 - **Architecture** — interfaces & SOLID, subsystems, save/load lifecycles, decoupled Pub/Sub event systems
